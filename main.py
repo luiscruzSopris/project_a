@@ -27,5 +27,9 @@ def subtract(a: float, b: float) -> float:
     """Return the difference of two numbers."""
     return a - b
 
+def multiply(a: float, b: float) -> float:
+    """Return the product of two numbers."""
+    return a * b
+
 if __name__ == "__main__":
     main()
